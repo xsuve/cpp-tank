@@ -8,11 +8,14 @@ This is the project I created for the Computer Assisted Graphics subject for my 
 * C++
 * OpenGL
 
-###
-Keyboard Keys
+### Keyboard Keys
+
 W, S - Move Forwards / Backwards
+
 Up, Down, Left, Right - Rotate Tank
+
 1, 2 - Move Turret
+
 Space - Shoot
 
 ---
